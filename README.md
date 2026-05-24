@@ -361,11 +361,3 @@ If you use this knowledge base or system in academic work, please cite:
   doi     = {10.1002/spe.70053}
 }
 ```
-
-## License
-
-Please add a license before public release. If the project is intended for open-source distribution, common choices include MIT, Apache-2.0, or GPL-3.0. Choose a license according to the intended reuse scope of the code and database.
-
-## Acknowledgements
-
-This project is based on a systematic literature review of microservice bad smells and aims to provide a reusable knowledge base for microservice architecture analysis, quality assessment, and bad smell detection research.
